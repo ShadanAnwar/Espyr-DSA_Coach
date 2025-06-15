@@ -1,0 +1,8 @@
+streamlit
+streamlit-ace
+langgraph
+langchain-groq
+langchain-core
+python-dotenv
+groq
+sqlite3
