@@ -2,7 +2,7 @@
 
 DSA Coach Pro is a LangGraph-based AI-driven platform built to guide users through Data Structures & Algorithms (DSA) problem-solving with personalized mentorship. Developed for the **Espyr Hackathon**, it simulates a LeetCode-like environment enhanced with intelligent agents, adaptive skill feedback, and real-time code evaluation.
 
-![DSA Coach Pro – Preview](docs/Ultimate_Prompt_for_Espyr_Hackathon.jpg)
+![DSA Coach Pro – Preview](docs/worklow.png)
 
 ---
 
